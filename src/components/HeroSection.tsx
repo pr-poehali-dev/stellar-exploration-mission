@@ -55,8 +55,8 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-white shadow-2xl md:h-64 md:w-64">
                 <img
-                  src="https://cdn.poehali.dev/templates/creative-portfolio-ru/portrait.jpg"
-                  alt="Креативный специалист"
+                  src="https://cdn.poehali.dev/projects/c50a0ab5-6547-48e9-9704-4fd14c7fac61/bucket/0d1fdd6d-996c-43f6-a19c-0b833b8aa286.jpeg"
+                  alt="Оксана Гузченко"
                   className="h-full w-full object-cover"
                 />
               </div>
